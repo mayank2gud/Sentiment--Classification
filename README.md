@@ -22,6 +22,7 @@ Used t-SNE to plot the text representations obtained using the above-mentioned m
 ![plot](./images/1_tsne_after.png)
 
 ## 2. Recurrent Units (RNN, LSTM, GRU)
+Papers Referenced:<br>
 <ul>
 <li>Extensions of Recurrent Neural Network Language Model 
 
@@ -67,4 +68,4 @@ readable dates to machine readable dates. Used the encoder-decoder network. The 
 </ul> <br>
 
 ![plot](./images/4.gif) 
-
+(image credit: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
