@@ -22,6 +22,19 @@ Used t-SNE to plot the text representations obtained using the above-mentioned m
 ![plot](./images/1_tsne_after.png)
 
 ## 2. Recurrent Units (RNN, LSTM, GRU)
+<ul>
+<li>Extensions of Recurrent Neural Network Language Model 
+
+<li>Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation 
+
+<li>Sequence to Sequence Learning with Neural Networks 
+
+<li>Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling 
+
+</ul>
+
+
+
 
  The aim is to design a binary classifier for the sentiment classification
 problem (now with large sentences). Every training set example contains a movie review and the corresponding sentiment
