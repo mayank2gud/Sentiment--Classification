@@ -50,7 +50,9 @@ problem (now with large sentences). Every training set example contains a movie 
   <li> GRU output is given to fully connected layer which classifies the sentence.
   <li> References : Convolutional, Long Short-Term Memory, Fully Connected Deep Neural Networks : https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43455.pdf
 </ul> <br>
+
 ![plot](./images/3.png) 
+
 <br>
 
 
