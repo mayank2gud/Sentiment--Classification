@@ -21,6 +21,11 @@ Used t-SNE to plot the text representations obtained using the above-mentioned m
 ![plot](./images/1_tsne_before.png)<br>
 ![plot](./images/1_tsne_after.png)
 
- 
+## 2. Recurrent Units (RNN, LSTM, GRU)
+
+ The aim is to design a binary classifier for the sentiment classification
+problem (now with large sentences). Every training set example contains a movie review and the corresponding sentiment
+(positive/negative). The aim is to design a deep learning model for this dataset using any/all recurrent units.
+![plot](./images/2_model.png)
 
 
