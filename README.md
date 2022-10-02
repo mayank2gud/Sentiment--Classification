@@ -55,5 +55,15 @@ problem (now with large sentences). Every training set example contains a movie 
 
 <br>
 
+## 4. Sequence 2 Sequence Model using attention
+
+Used attention mechanism  to translate human
+readable dates to machine readable dates. Used the encoder-decoder network. The dataset consisting of 40, 000 examples is provided.  <br>
+
+<ul>
+  <li> Bahdanau et al, Neural Machine Translation by Jointly Learning to Align and Translate.<br>
+(https://arxiv.org/pdf/1409.0473.pdf)
+  <li> Yang et al, Hierarchical Attention Networks for Document Classification. (https://aclanthology.org/N16-1174.pdf)
+</ul> <br>
 
 
