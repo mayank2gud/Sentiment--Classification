@@ -18,6 +18,8 @@ text representation is used for solving a text classification problem. <br>
 
 Used t-SNE to plot the text representations obtained using the above-mentioned method.<br>
 
+![plot](./images/1_tsne_before.png)<br>
+![plot](./images/1_tsne_after.png)
 
  
 
