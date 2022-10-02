@@ -38,7 +38,19 @@ Used t-SNE to plot the text representations obtained using the above-mentioned m
 
  The aim is to design a binary classifier for the sentiment classification
 problem (now with large sentences). Every training set example contains a movie review and the corresponding sentiment
-(positive/negative). The aim is to design a deep learning model for this dataset using any/all recurrent units.
+(positive/negative). The aim is to design a deep learning model for this dataset using any/all recurrent units.<br>
 ![plot](./images/2_model.png)
+
+
+## 3. CLDNN(CNN-LSTM_DNN) model for sentence classification
+<ul>
+  <li> Model Consists of 1 CNN Layer followed by 1 GRU Layer followed by fully connected layer.
+  <li> Word vectors in a sentence are given as input to the CNN layer with context window of 3 word vectors.
+  <li> CNN's output is flattened out and given to GRU's input.
+  <li> GRU output is given to fully connected layer which classifies the sentence.
+  <li> References : Convolutional, Long Short-Term Memory, Fully Connected Deep Neural Networks : https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43455.pdf
+</ul> <br>
+![plot](./images/3.png) <br>
+
 
 
