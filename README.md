@@ -66,4 +66,5 @@ readable dates to machine readable dates. Used the encoder-decoder network. The 
   <li> Yang et al, Hierarchical Attention Networks for Document Classification. (https://aclanthology.org/N16-1174.pdf)
 </ul> <br>
 
+![plot](./images/4.gif) 
 
